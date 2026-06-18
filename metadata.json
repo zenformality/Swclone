@@ -1,0 +1,6 @@
+{
+  "name": "swclone",
+  "description": "Upload audio to clone custom voice profiles and generate high-fidelity speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
